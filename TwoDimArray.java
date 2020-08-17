@@ -1,4 +1,3 @@
-package ckonta_lab1;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
